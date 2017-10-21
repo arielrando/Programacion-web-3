@@ -1,0 +1,79 @@
+﻿@{
+    Layout = "~/Views/shared/_BaseLayout.cshtml";
+}
+
+@model TrabajoPracticoGrupo10.Models.Paquete
+
+<div class="container">
+    @using (Html.BeginForm("/Crear_Paquete", "Home", new { enctype = "multipart/form-data" }))
+    {
+        <div class="form-group">
+            <text class="lead">Nombre del Paquete</text>
+            <br />@Html.TextBoxFor(m => m.Nombre, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.Nombre, null, new { style = "color:red" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Descripción del Paquete</text>
+            <br />@Html.TextBoxFor(m => m.Descripcion, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.Descripcion, null, new { style = "color:red" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Fecha Inicio</text>
+            <br />@Html.TextBoxFor(m => m.FechaInicio, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.FechaInicio, null, new { style = "color:red" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Fecha Fin</text>
+            <br />@Html.TextBoxFor(m => m.FechaFin, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.FechaFin, null, new { style = "color:red" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Destacado</text>
+            <br />@Html.EditorFor(m => m.Destacado, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.Destacado, null, new { style = "color:red" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Lugares Disponibles</text>
+            <br />@Html.TextBoxFor(m => m.LugaresDisponibles, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.LugaresDisponibles, null, new { style = "color:red" })
+        </div>
+        <br />
+
+
+        <div class="form-group">
+            <text class="lead">Fecha Fin</text>
+            <br />@Html.TextBoxFor(m => m.Destacado, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.Destacado, null, new { style = "color:red" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Foto</text>
+            <br />@Html.LabelFor(m => m.Foto, new { Type = "file" })
+            <br />@Html.TextBoxFor(m => m.Foto, null, new { type = "file" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Precio</text>
+            <br />@Html.TextBoxFor(m => m.PrecioPorPersona, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.PrecioPorPersona, null, new { style = "color:red" })
+
+
+            <br />
+
+            <button type="submit" name="btnIngresar" class="btn btn-primary">Enviar</button>
+        </div>
+
+    }
+</div>

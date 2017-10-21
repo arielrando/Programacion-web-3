@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "~/Views/shared/_BaseLayout.cshtml";
+}
+
+@model TrabajoPracticoGrupo10.Models.Usuario
+
+<div class="container">
+     @using (Html.BeginForm("/Autenticar_Iniciar_Sesion", "Home"))
+     {
+
+        <div class="form-group">
+            <text class="lead">Email</text>
+            <br />@Html.TextBoxFor(m => m.Email, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.Email, null, new { style = "color:red" })
+        </div>
+        <br />
+
+        <div class="form-group">
+            <text class="lead">Contraseña</text>
+            <br />@Html.TextBoxFor(m => m.Contrasenia, null, new { @class = "form-control" })
+            <br />@Html.ValidationMessageFor(m => m.Contrasenia, null, new { style = "color:red" })
+            
+            <br />
+
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </div>
+
+     }
+</div>

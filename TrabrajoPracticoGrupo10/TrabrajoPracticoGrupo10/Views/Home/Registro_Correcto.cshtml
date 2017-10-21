@@ -1,0 +1,12 @@
+﻿@{
+    Layout = "~/Views/shared/_BaseLayout.cshtml";
+}
+
+<div class="container">
+    <h1>Se ha registrado correctamente!</h1>
+    <a href="@Url.Action("Iniciar_Sesion", "Home")" class="btn btn-primary">Iniciar Sesión</a>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-default">Volver</a>
+</div>
+
+
+@Html.Raw(@ViewBag.Email)

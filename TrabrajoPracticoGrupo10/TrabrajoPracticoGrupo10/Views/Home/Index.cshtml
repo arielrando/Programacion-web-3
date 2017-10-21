@@ -1,0 +1,107 @@
+﻿@{
+    Layout = "~/Views/shared/_BaseLayout.cshtml";
+}
+
+@Html.Raw(@ViewBag.Email)
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+
+        <div class="item active" style="background-image:url('/resources/img/1.jpg'); ">
+            <h1 class="carouselTitulo">titulo 1</h1>
+        </div>
+
+        <div class="item" style="background-image:url('/resources/img/2.jpg'); ">
+            <h1 class="carouselTitulo">titulo 2</h1>
+        </div>
+
+        <div class="item" style="background-image:url('/resources/img/3.jpg'); ">
+            <h1 class="carouselTitulo">titulo 3</h1>
+        </div>
+
+        <div class="item" style="background-image:url('/resources/img/3.jpg'); ">
+            <h1 class="carouselTitulo">titulo 4</h1>
+        </div>
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <i class="fa fa-caret-left carouselFlechaIzquierda" aria-hidden="true"></i>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <i class="fa fa-caret-right carouselFlechaDerecha" aria-hidden="true"></i>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<!--<div class="queEsPagina">
+    <h1 class="queEsPaginaTitulo"><b><a href="nosotros.php">Destinos</a></b></h1>
+    <p class="queEsPaginaTexto"> <a href="" class="linkVerMas">Ver más</a></p>
+</div>-->
+
+<div class="nuestrosServicios">
+
+    <h1 class="nuestrosServiciosTitulo"><b><a href="servicios.php">Destinos</a></b></h1>
+
+    <div class="nuestrosServiciosBloqueDoble">
+
+        <div class="nuestrosServiciosBloque col-xs-3">
+            <img src="~/resources/img/nuestrosServicios1-1.jpg" class="nuestrosServiciosBloqueImagen">
+            <h3 class="nuestrosServiciosBloqueTitulo"><b><a href="servicios1.php">New York</a></b></h3>
+            <p class="nuestrosServiciosBloqueTexto">Lorem ipsum dolor sit amet. </p><a href="servicios1.php" class="linkVerMas">Ver más</a>
+        </div>
+
+        <div class="nuestrosServiciosBloque col-xs-3">
+            <img src="~/resources/img/nuestrosServicios1-2.jpg" class="nuestrosServiciosBloqueImagen">
+            <h3 class="nuestrosServiciosBloqueTitulo"><b><a href="Servicios2.php">Sao Pablo</a></b></h3>
+            <p class="nuestrosServiciosBloqueTexto">Lorem ipsum dolor sit amet. </p><a href="servicios2.php" class="linkVerMas">Ver más</a>
+        </div>
+
+    </div>
+
+    <div class="nuestrosServiciosBloqueDoble">
+
+        <div class="nuestrosServiciosBloque col-xs-3">
+            <img src="~/resources/img/nuestrosServicios1-3.jpg" class="nuestrosServiciosBloqueImagen">
+            <h3 class="nuestrosServiciosBloqueTitulo"><b><a href="Servicios3.php">Tokyo</a></b></h3>
+            <p class="nuestrosServiciosBloqueTexto">Lorem ipsum dolor sit amet. </p><a href="servicios3.php" class="linkVerMas">Ver más</a>
+        </div>
+
+        <div class="nuestrosServiciosBloque col-xs-3">
+            <img src="~/resources/img/nuestrosServicios1-4.jpg" class="nuestrosServiciosBloqueImagen">
+            <h3 class="nuestrosServiciosBloqueTitulo"><b><a href="Servicios4.php">Luxemburgo</a></b></h3>
+            <p class="nuestrosServiciosBloqueTexto">Lorem ipsum dolor sit amet. </p><a href="servicios4.php" class="linkVerMas">Ver más</a>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="imagenExpandidaContenedor">
+    <div class="imagenExpandidaContenedor2">
+        <div class="imagenExpandidaContenedor3">
+            <div class="imagenExpandidaContenedor4">
+                <p class="imagenExpandidaCerrar">
+                    <b>
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-square fa-stack-2x imagenExpandidaCerrarFondo"></i>
+                            <i class="fa fa-times fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </b>
+                </p>
+                <img class="imagenExpandida" src="">
+            </div>
+        </div>
+    </div>
+</div>

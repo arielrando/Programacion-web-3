@@ -1,0 +1,935 @@
+﻿
+nav.navbar
+{
+	color: #cccccc;
+	border-top: solid 1px #f2f2f2;
+	border-bottom: solid 1px #f2f2f2;
+	background-color: #323354;
+	margin-top: 15px;
+	-webkit-transition: all 0.2s ease;
+   	transition: all 0.2s ease;
+
+}
+
+.x {
+    width: 100px;
+}
+
+nav.navbar.shrink 
+{
+	border-top: none;
+	background-color: #323354;
+	
+	margin-top: 0px;
+}
+
+
+
+.navbar-default  .navbar-brand {
+    color: 	#cccccc;
+}
+
+.navbar-default  .navbar-brand:hover {
+    color: white;
+}
+.navbar-default .navbar-nav > li > a:focus {
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: 	#cccccc;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: 	white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, 
+.navbar-default .navbar-nav > .open > a:hover.navbar-default .navbar-toggle .icon-bar
+{
+	color: 	white;
+	background-color: #292C91;
+}
+
+.navbar-default .navbar-toggle .icon-bar
+{
+	background-color: #cccccc;
+}
+
+.navbar-default .navbar-toggle:focus, 
+.navbar-default .navbar-toggle:hover
+{
+	background-color: #292C91;
+}
+
+.itemDelMenuDeNavegacion
+{
+	margin-left:5px;
+	margin-right: 5px;
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------*/
+/*Cuerpo de la pagina*/
+
+#cuerpo
+{
+	margin-top: 80px;
+
+}
+
+.imagenExpandidaContenedor
+{
+	position:fixed; 
+	padding:0; 
+	margin:0; 
+	top:0; 
+	left:0; 
+	width: 100%; 
+	height: 100%; 
+	background:rgba(3,3,3,0.5); 
+	z-index: 100000; 
+	display: none; 
+	visibility: hidden;
+	opacity: 0;
+    -webkit-transition: opacity 600ms, visibility 600ms;
+    transition: opacity 600ms, visibility 600ms;
+}
+
+.imagenExpandidaContenedor2
+{
+	height: 100%; 
+	width:100%; 
+	display: table;
+}
+
+.imagenExpandidaContenedor3
+{
+	 height:100%; 
+	 display:table-cell; 
+	 vertical-align:middle; 
+	 text-align:center;
+}
+
+.imagenExpandidaContenedor4
+{
+	display: inline-block;  
+	position: relative;
+}
+
+.imagenExpandidaCerrar
+{
+	font-size: 10px; 
+	position: absolute; 
+	top: 5px; 
+	right: 5px; 
+	cursor: pointer; 
+}
+
+.imagenExpandidaCerrarFondo
+{
+	color: #323354;
+}
+
+.imagenExpandida
+{
+	max-width: 100%; 
+	min-width: 25%;
+}
+
+.imagenParaAgrandar
+{
+	cursor: pointer;
+}
+
+
+		/*----------------------------------------------------------------------------------------------------*/
+		/*Index Carousel*/
+#myCarousel
+{
+	width: 75%; 
+	height: 350px; 
+	margin:auto; 
+	overflow: hidden;
+
+
+}
+
+.item
+{
+	width: 100%; 
+	height: 350px;
+	background-repeat:no-repeat; 
+	background-size:cover; 
+	background-position:50% 50%;
+}
+
+.item .active
+{
+
+	
+
+}
+
+.carouselTitulo
+{
+
+	text-align: center;
+	vertical-align: middle;
+	line-height: 350px;  
+	margin-top: 0;
+	color: white;
+	text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+
+}
+
+.carousel-control.left
+{
+	background-image:linear-gradient(to left, rgba(255,0,0,0), rgba(255,255,255,1));
+}
+
+.carousel-control.right
+{
+	background-image:linear-gradient(to right, rgba(255,0,0,0), rgba(255,255,255,1));
+}
+
+.carouselFlechaDerecha
+{
+	top: 50%;
+	position: absolute;
+}
+
+.carouselFlechaIzquierda
+{
+	top: 50%;
+	position: absolute;
+}
+
+a.carousel-control
+{
+	opacity: 1;
+	color: #292C91;
+	font-size: 30px;
+	-webkit-transition: all 0.2s ease;
+   	transition: all 0.2s ease;
+}
+
+a.carousel-control:hover
+{
+	opacity: 1;
+	font-size: 40px;
+	color: #1786BF;
+	-webkit-transition: all 0.2s ease;
+   	transition: all 0.2s ease;
+
+}
+a.carousel-control:focus
+{
+	opacity: 1;
+	color: #1786BF;
+	-webkit-transition: all 0.2s ease;
+   	transition: all 0.2s ease;
+}
+
+
+.carousel-indicators .active 
+{
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color:  #323354;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(255,255,255,1);
+    border: 1px solid #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+		/*----------------------------------------------------------------------------------------------------*/
+		/* Index quienes somos*/
+.queEsPagina
+{
+
+}
+
+.queEsPagina a:hover
+{
+	text-decoration: none;
+}
+
+.queEsPaginaTitulo
+{
+	
+}
+
+h1.queEsPaginaTitulo
+{
+	text-align: center;
+}
+
+.queEsPaginaTitulo a
+{
+	color: #2F4BA8;
+	text-decoration: underline;
+}
+
+.queEsPaginaTitulo a:hover  
+{
+	color: #1786BF;
+	text-decoration: underline;
+}
+
+
+.queEsPaginaTexto
+{
+	text-align: center; 
+	width: 700px; 
+	margin: auto; 
+	font-size: 18px;
+}
+
+
+		/*----------------------------------------------------------------------------------------------------*/
+		/* Index Nuestros servicios*/
+.nuestrosServicios
+{
+	width: 850px;
+	overflow: auto;
+	margin: auto; 
+	
+
+}
+
+.nuestrosServicios a:hover
+{
+	text-decoration: none;
+}
+
+h1.nuestrosServiciosTitulo 
+{
+
+	text-align: center;	
+}
+
+.nuestrosServiciosTitulo a
+{
+	color: #2F4BA8;
+	text-decoration: underline;
+}
+
+.nuestrosServiciosTitulo a:hover 
+{
+	color: #1786BF;
+	text-decoration: underline;
+}
+
+.nuestrosServiciosBloqueDoble
+{
+	overflow: visible;
+}
+
+.nuestrosServiciosBloque
+{
+	
+	padding-right: 2px;
+	padding-left: 2px;
+	/*height: 350px;*/
+}
+
+.nuestrosServiciosBloqueImagen
+{
+	width: 100%;
+}
+
+h3.nuestrosServiciosBloqueTitulo
+{
+	text-align: center;
+}
+
+.nuestrosServiciosBloqueTitulo a
+{
+	color: #2F4BA8;
+	text-decoration: underline;
+}
+
+.nuestrosServiciosBloqueTitulo a:hover 
+{
+	color: #1786BF;
+	text-decoration: underline;
+}
+
+.nuestrosServiciosBloqueTexto
+{
+	
+	padding-left: 7px;
+
+}
+
+		/*----------------------------------------------------------------------------------------------------*/
+		/* Nosotros*/
+
+h1.nosotosTitulo
+{
+	color: #2F4BA8;
+	text-align: center;
+}
+
+.nosotosTexto
+{
+	text-align: justify; 
+	width: 700px; 
+	margin: auto; 
+	font-size: 18px;
+}
+
+
+.linkVerMas
+{
+	color: #2F4BA8;
+	text-decoration: underline;
+}
+
+a.linkVerMas:hover
+{
+	color: #1786BF;
+	text-decoration: underline;
+}
+
+
+		/*----------------------------------------------------------------------------------------------------*/
+		/* Servicios*/
+
+h1.servivosTitulo
+{
+	color: #2F4BA8;
+	text-align: center;
+}
+
+.servivosTexto
+{
+	text-align: justify; 
+	width: 700px; 
+	margin: auto; 
+	font-size: 18px;
+}
+
+h3.servivosIndividualTituloIzquierda
+{
+	text-align: left;
+	width: 300px;
+	color: #2F4BA8;
+}
+
+.servivosIndividualTituloIzquierda a
+{
+	color: #2F4BA8;
+	text-decoration: underline;
+}
+
+.servivosIndividualTituloIzquierda a:hover 
+{
+	
+	color: #1786BF;
+	text-decoration: underline;
+	
+}
+
+h3.servivosIndividualTituloDerecha
+{
+	text-align: right;
+    width: 300px;
+    margin-right: 0px;
+    margin-left: auto;
+    color: #2F4BA8;
+}
+
+
+
+.servivosIndividualTituloDerecha a
+{
+	color: #2F4BA8;
+	text-decoration: underline;
+}
+
+.servivosIndividualTituloDerecha a:hover 
+{
+	
+	color: #1786BF;
+	text-decoration: underline;
+	
+}
+
+		/*----------------------------------------------------------------------------------------------------*/
+		/* Servicios*/
+
+h1.contactoTitulo
+{
+	color: #2F4BA8;
+	text-align: center;
+}
+
+.contactoTexto
+{
+	text-align: justify; 
+	width: 700px; 
+	margin: auto; 
+	font-size: 18px;
+}
+
+h3.contactoListaTitulo
+{
+	color: #2F4BA8;
+	text-align: center;
+}
+
+.contactoLista
+{
+	margin: auto;
+	text-align: center;
+	font-size: 18px;
+	list-style: none;
+}
+
+a.contactoListaLink
+{
+	color: #2F4BA8;
+	text-decoration: underline;
+}
+
+a.contactoListaLink:hover
+{
+	color: #1786BF;
+	text-decoration: underline;
+}
+
+
+				/*--------------------------------------------------------------------------------------------*/
+				/*imagenes a carousel*/
+
+.carouselIndicadores
+{
+	display: none;
+}
+
+.carouselFlechas
+{
+	display: none;
+}
+
+.imagenesALaIzq
+{
+	width: 75%; 
+	overflow: auto; 
+	margin-right: auto; 
+	margin-left: 0px;
+}
+
+.imagenesALaDer
+{
+	width: 75%; 
+	overflow: auto; 
+	margin-right: 0px; 
+	margin-left: auto;
+}
+
+.imagenesAlCentro
+{
+	width: 100%; 
+	overflow: auto; 
+	margin-right: auto; 
+	margin-left: auto;
+}
+
+.imagenDentroDelCarousel
+{
+	width: 100%;
+	margin: auto;
+}
+
+.servivosIndividualTextoIzquierda
+{
+	text-align: justify; 
+	width: 700px; 
+	font-size: 18px;
+}
+.servivosIndividualTextoDerecha
+{
+	text-align: justify;
+	text-align-last: right; 
+	width: 700px;
+	margin-right: 0px;
+	margin-left: auto;
+	font-size: 18px;
+}
+
+.servivosIndividualTextoCentro
+{
+	text-align: left; 
+	width: 100%; 
+	font-size: 18px;
+}
+
+/*-------------------------------------------------------------------------------------------------------------*/
+/*Contacto*/
+
+#fomularioConsultaNombreError
+{
+	-webkit-transition: height 0.2s ease-in;
+   	transition: height 0.2s ease-in;
+	color: red; 
+	overflow: hidden;
+	margin: 0;
+	height: 0px; 
+	display: none;
+}
+
+#fomularioConsultaEmailError
+{
+	-webkit-transition: height 0.2s ease-in;
+   	transition: height 0.2s ease-in;
+	color: red; 
+	overflow: hidden;
+	margin: 0;
+	height: 0px; 
+	display: none;
+}
+
+#fomularioConsultaConsultaError
+{
+	-webkit-transition: height 0.2s ease-in;
+   	transition: height 0.2s ease-in;
+	color: red; 
+	overflow: hidden;
+	margin: 0;
+	height: 0px; 
+	display: none;
+}
+
+#fomularioEnviando
+{
+	-webkit-transition: height 0.2s ease-in;
+   	transition: height 0.2s ease-in;
+	color: green; 
+	overflow: hidden;
+	margin: 0;
+	height: 0px;
+	display: none;
+}
+
+#botonEnviar
+{
+	background-color:#2F4BA8; 
+	color: white;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------*/
+/*Pie de pagina*/
+
+#pieDePagina
+{
+	margin-top: 20px;
+	color: #cccccc;
+	background-color:#323354;
+	height: 100%; 
+	
+}
+
+#pieDePagina a
+{
+	
+	color: #cccccc;
+	text-decoration: underline;
+	
+}
+
+#pieDePagina a:hover
+{
+	
+	color: white;
+	text-decoration: underline;
+	
+}
+
+
+#tablaDeContenidosDelPieDePagina
+{
+	margin: auto;
+    width: 85%;
+    text-align: center;
+    
+}
+
+.pieTituloLista
+{
+	font-size: 18px;
+}
+
+.pieTituloListaResponsive
+{
+	font-size: 17px;
+}
+
+.pieTituloListaFlecha
+{
+	display: none;
+}
+
+.listasDelPie
+{
+	list-style-type: none;
+	height:100%; 
+	overflow:hidden;
+	font-size: 15px;
+}
+
+.listasDelPieResponsive
+{
+	list-style-type: none;
+	height:67px; 
+	overflow:hidden;
+	font-size: 17px;
+}
+
+.list-group
+{
+	margin-bottom: 5px;
+}
+
+#imagenDePie
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#copyright
+{
+	text-align: center;
+	font-size: 11px;
+}
+
+
+
+.divDeListaDelPie > ul
+{
+	-webkit-transition: height 0.2s ease-in;
+   	transition: height 0.2s ease-in;
+}
+
+.divDeListaDelPieResponsive > ul
+{
+	-webkit-transition: height 0.2s ease-in;
+   	transition: height 0.2s ease-in;
+}
+
+.linea
+{
+	display: none;
+}
+
+/*Responsive*/
+
+@media only screen and (max-width: 870px) 
+{
+	.nuestrosServicios
+	{
+		width: 99%;
+		 
+		margin: auto; 
+		
+		overflow:auto;
+	}
+
+
+
+
+
+}
+
+@media only screen and (max-width: 767px) 
+{
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a
+	{
+		color: #cccccc;
+		background-color: transparent;
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus
+	{
+		color: white;
+		background-color: transparent;
+	}
+
+	#myCarousel
+	{
+		width: 98%; 
+		height: 200px; 
+		margin:auto; 
+		overflow: hidden;
+
+	}
+
+	.item
+	{
+		width: 100%; 
+		height: 200px;
+		background-repeat:no-repeat; 
+		background-size:cover; 
+		background-position:50% 50%;
+	}
+
+	.carouselTitulo
+	{
+		text-align: center;
+		vertical-align: middle;
+		line-height: 250px;  
+		margin-top: 0;
+		font-size: 15px;
+	}
+
+	.nuestrosServicios
+	{
+		width: 100%;
+		overflow: visible;
+	}
+
+	.nuestrosServiciosBloqueDoble
+	{
+		overflow: auto;
+	}
+
+	.nuestrosServiciosBloqueImagen
+	{
+		width: 60%;
+		display:block;
+		margin:auto;
+	}
+
+	.nosotosTexto
+	{
+		text-align: justify; 
+		width: 100%; 
+		margin: auto; 
+		font-size: 12px;
+	}
+
+	h3.servivosIndividualTituloDerecha
+	{
+		text-align: left;
+	    width: 300px;
+	    margin-right: auto;
+	    margin-left: 0px;
+	}
+
+	.servivosTexto
+	{
+		text-align: justify; 
+		width: 100%; 
+		margin: auto; 
+		font-size: 12px;
+	}
+
+	.imagenesALaDer
+	{
+		width: 75%; 
+		overflow: auto; 
+		margin-right: auto; 
+		margin-left: 0px;
+	}
+
+	.servivosIndividualTextoIzquierda
+	{
+		text-align: justify; 
+		width: 100%; 
+		font-size: 12px;
+	}
+
+	.servivosIndividualTextoDerecha
+	{
+		text-align: justify;
+		text-align-last: left; 
+		width: 100%; 
+		margin-right: auto;
+		margin-left: 0px;
+		font-size: 12px;
+	}
+
+	.contactoTexto
+	{
+		text-align: justify; 
+		width: 100%; 
+		margin: auto; 
+		font-size: 12px;
+	}
+
+	.queEsPaginaTexto
+	{
+		width: 100%;
+		font-size: 12px;
+	}
+
+	#tablaDeContenidosDelPieDePagina
+	{
+		margin: auto;
+	    width: 100%;
+	    font-size: 10px;
+	    text-align: left;
+
+	}
+
+	#pieDePagina
+	{
+		margin-top: 15px;
+		
+		height: 100%; 
+	}
+
+
+	.pieTituloListaFlecha
+	{
+		display: inline;
+	}
+
+	.linea
+	{
+		display: block;
+		margin-bottom: 0px;
+		margin-top: 0px;
+		text-align: center; 
+		width: 95%;
+	}
+
+	.list-group
+	{
+		margin-bottom: 0px;
+	}
+
+	
+
+	p
+	{
+		font-size: 12px;
+	}
+
+
+
+}
+
+@media only screen and (max-width: 450px) 
+{
+	.imagenParaAgrandar
+	{
+		cursor: default;
+	}
+}
+

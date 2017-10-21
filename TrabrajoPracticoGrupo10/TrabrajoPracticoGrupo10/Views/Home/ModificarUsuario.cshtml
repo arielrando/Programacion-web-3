@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "~/Views/shared/_BaseLayout.cshtml";
+}
+
+@model TrabrajoPracticoGrupo10.Usuario
+
+<div class="container">
+    @using (Html.BeginForm("/ModificarUsuario", "Home"))
+    {
+        <div class="form-group">
+            <text class="lead">Nombre de Usuario</text>
+            <br />@Html.TextBoxFor(m => m.Nombre, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Nombre, null, new { style = "color:red" })
+        </div>
+            <br />
+
+            <div class="form-group">
+                <text class="lead">Apellido</text>
+                <br />@Html.TextBoxFor(m => m.Apellido, null, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Apellido, null, new { style = "color:red" })
+            </div>
+            <br />
+
+
+            <div class="form-group">
+                <text class="lead">Contraseña</text>
+                <br />@Html.TextBoxFor(m => m.Contrasenia, null, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Contrasenia, null, new { style = "color:red" })
+            </div>
+            <br />
+
+            <div class="form-group">
+                <text class="lead">Email</text>
+                <br />@Html.TextBoxFor(m => m.Email, null, new { @class = "form-control" })
+                <br />@Html.ValidationMessageFor(m => m.Email, null, new { style = "color:red" })
+                <br />
+
+                @Html.HiddenFor(m => m.Id)
+
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </div>
+    }
+</div>
+

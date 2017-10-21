@@ -1,0 +1,108 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/funciones")
+    @RenderSection("scripts", required: false)
+</head>
+<body>
+
+    <!--LLAMADA A LOS MENU-->
+    @if (ViewBag.Email != null)
+    {
+        if (ViewBag.Admin == 1)
+        {
+            <div>@Html.Partial("_pvMenuAdmin", "Menu")</div>
+        }
+        else
+        { 
+            <div>@Html.Partial("_pvMenuUsuario", "Menu")</div>
+        }
+    }
+    else
+    {
+        <div>@Html.Partial("_pvMenuAnonimo", "Menu")</div>
+    }
+    
+    @RenderBody()
+
+    <hr />
+
+    <footer>
+        <div id="pieDePagina" class="">
+
+            <div class="row" id="tablaDeContenidosDelPieDePagina">
+
+                <div class="divDeListaDelPieResponsive col-sm-3 ">
+                    <b class="pieTituloListaResponsive" role="button">Contacto <i class="fa fa-caret-down pieTituloListaFlecha" aria-hidden="true"></i></b>
+                    <ul class="list-group listasDelPieResponsive">
+                        <li><i class="fa fa-volume-control-phone" aria-hidden="true"></i> telefono xxxx-xxxx</li>
+                        <li><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp xx-xxxx-xxxx</li>
+                        <li><i class="fa fa-envelope" aria-hidden="true"></i> Mail xxxxxx@xxxx.com</li>
+                    </ul>
+                </div>
+                <hr class="linea">
+
+                <div class="divDeListaDelPieResponsive col-sm-3 ">
+                    <b class="pieTituloListaResponsive" role="button">Horarios <i class="fa fa-caret-down pieTituloListaFlecha" aria-hidden="true"></i></b>
+                    <ul class="list-group listasDelPieResponsive">
+                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> Lunes a viernes </li>
+                        <li>09:00hs a 18:00hs</li>
+                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> sabados</li>
+                        <li>10:00hs a 14:00hs</li>
+                    </ul>
+                </div>
+                <hr class="linea">
+
+                <div class="divDeListaDelPieResponsive col-sm-3 ">
+                    <b class="pieTituloListaResponsive" role="button">Redes sociales <i class="fa fa-caret-down pieTituloListaFlecha" aria-hidden="true"></i></b>
+                    <ul class="list-group listasDelPieResponsive">
+                        <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+                        <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+                        <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</a></li>
+                    </ul>
+                </div>
+                <hr class="linea">
+
+                <div class="divDeListaDelPieResponsive col-sm-3 ">
+                    <b class="pieTituloListaResponsive" role="button">Mapa del sitio <i class="fa fa-caret-down pieTituloListaFlecha" aria-hidden="true"></i></b>
+                    <ul class="list-group listasDelPieResponsive">
+                        <li><a href="index.php">Inicio</a></li>
+                        <li><a href="nosotros.php">Nosotros</a></li>
+                        <li><a href="servicios.php">Servicios</a></li>
+                        <li><a href="contacto.php">Contacto</a></li>
+                    </ul>
+                </div>
+                <hr class="linea">
+
+
+            </div>
+
+            <div id="imagenDePie">
+                <b>LOGO</b>
+            </div>
+
+            <div id="copyright">
+                2017 | todos los derechos reservados
+            </div>
+
+
+
+        </div>
+    </footer>   
+
+   
+</body>
+</html>
+

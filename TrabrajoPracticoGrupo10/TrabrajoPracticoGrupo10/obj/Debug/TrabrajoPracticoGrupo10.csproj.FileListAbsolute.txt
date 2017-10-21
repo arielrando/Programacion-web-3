@@ -1,0 +1,150 @@
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\ApplicationInsights.config
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csc.exe
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csc.exe.config
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csc.rsp
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csi.exe
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csi.rsp
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.AppContext.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\vbc.exe
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\vbc.exe.config
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\vbc.rsp
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\VBCSCompiler.exe
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\TrabrajoPracticoGrupo10.dll.config
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\TrabrajoPracticoGrupo10.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\TrabrajoPracticoGrupo10.pdb
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Antlr3.Runtime.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.Web.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Newtonsoft.Json.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Helpers.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Mvc.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Optimization.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Razor.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Razor.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\WebGrease.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Helpers.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Mvc.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Optimization.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Razor.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Razor.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Antlr3.Runtime.pdb
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Newtonsoft.Json.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.Web.xml
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Razor.resources.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.WebPages.resources.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.csprojResolveAssemblyReference.cache
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.csproj.CoreCompileInputs.cache
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.dll
+C:\Users\AgusNicoTomi\source\repos\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.pdb
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\ApplicationInsights.config
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csc.exe
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csc.exe.config
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csc.rsp
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csi.exe
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\csi.rsp
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.AppContext.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\vbc.exe
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\vbc.exe.config
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\vbc.rsp
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\TrabrajoPracticoGrupo10.dll.config
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\TrabrajoPracticoGrupo10.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\TrabrajoPracticoGrupo10.pdb
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Antlr3.Runtime.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.Web.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Newtonsoft.Json.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Helpers.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Mvc.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Optimization.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Razor.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\WebGrease.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Helpers.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Mvc.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Optimization.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.Razor.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Antlr3.Runtime.pdb
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Newtonsoft.Json.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\Microsoft.AI.Web.xml
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.Razor.resources.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.csprojResolveAssemblyReference.cache
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.csproj.CoreCompileInputs.cache
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.dll
+C:\Users\Nixc\Documents\Visual Studio 2017\Projects\TrabrajoPracticoGrupo10\TrabrajoPracticoGrupo10\obj\Debug\TrabrajoPracticoGrupo10.pdb
